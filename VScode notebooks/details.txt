@@ -1,0 +1,2 @@
+Speech recogniser runs in VScode jupyter notbook
+  
